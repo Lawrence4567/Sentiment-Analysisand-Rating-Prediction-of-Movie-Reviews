@@ -4,10 +4,24 @@
 
 This project focuses on sentiment analysis and rating prediction of movie reviews. Utilizing machine learning and natural language processing techniques, the system analyzes reviews to classify them as positive or negative and predicts numerical ratings. The project also explores review similarity analysis using spaCy.
 
+## Quick Start Guide
+
+To get started with this project, follow the steps below:
+
+1. **Set up a Python Environment**:
+   Ensure you have Python 3.8+ installed on your system.
+
+2. **Run the Notebooks**:
+   Launch Jupyter Notebook in your environment and open the `.ipynb` files to view the models and visualizations.
+
+3. **Run the Script**:
+   Execute `python index.py` to start the sentiment analysis and rating prediction interface.
+
 ## Development Environment & Tools
 
 - **Programming Language**: Python
-- **Libraries and Frameworks**: 
+- **Libraries and Frameworks**:
+  - `Logistic Regression and Naive Bayes` for sentiment analysis
   - `fasttext` for sentiment analysis
   - `LinearRegression` from `sklearn` for rating prediction
   - `spaCy` for text processing and similarity analysis
@@ -16,7 +30,19 @@ This project focuses on sentiment analysis and rating prediction of movie review
 - **IDE**: Jupyter Notebook
 
 ## Folder Hierarchy
-
+Group6/
+├── .ipynb_checkpoints/         # Jupyter notebook checkpoint files
+├── Data_visualization.ipynb    # Jupyter notebook for data visualization
+├── IMDB_sentimental_model.ipynb# Jupyter notebook for IMDB sentiment analysis
+├── logistic&Bayes.ipynb        # Jupyter notebook for logistic regression and Naive Bayes models
+├── index.py                    # Python script for sentiment analysis and rating prediction
+├── my_senti_model.bin          # Trained FastText sentiment analysis model
+├── Rating_Cleaned.csv          # Cleaned dataset with sentiment labels
+├── rating_model.pkl            # Trained rating prediction model
+├── review_rating_sent.csv      # Raw dataset with review texts and ratings
+├── review_sent.csv             # Raw dataset with review texts for sentiment analysis
+├── tfidf_model.pkl             # Trained TF-IDF vectorizer model
+└── train.txt                   # Processed training data for FastText model
 
 ## Installation Steps
 
@@ -48,8 +74,15 @@ This project uses various tools and libraries, each with their own licenses. Ple
 - N, L. (2019, March 9). IMDB dataset of 50K movie reviews. Kaggle. https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 - spaCy: [Official Documentation](https://spacy.io/api/span)
 - FastText: [Official Repository](https://github.com/facebookresearch/fastText)
+- fastText. (n.d.). Text classification. Retrieved from https://fasttext.cc/docs/en/supervised-tutorial.html
 -  A. Joulin, E. Grave, P. Bojanowski, T. Mikolov, Bag of Tricks for Efficient Text Classification https://arxiv.org/abs/1607.01759
 -  Makwana, A. (2022, October 10). Complete Guide to Analyzing Movie Reviews Using NLP. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2022/09/complete-guide-to-analyzing-movie-reviews-using-nlp/
+-  Ortony, A., & Turner, T. J. (1990). What's basic about basic emotions? Psychological Review, 97(3), 315–331. https://doi.org/10.1037/0033-295X.97.3.315
+  
+# Acknowledgments
+
+I would like to express my deepest appreciation to my professor, Dr. Russell Campbell, whose invaluable guidance and insightful critiques have been instrumental to the success of this project. His expertise and support throughout this course have not only helped in sharpening my analytical skills but have also encouraged me to explore the field of natural language processing more deeply. Thank you, Dr. Campbell, for your mentorship and for fostering an environment that challenges and inspires your students.
+
 
 ## Demonstration Video
 
