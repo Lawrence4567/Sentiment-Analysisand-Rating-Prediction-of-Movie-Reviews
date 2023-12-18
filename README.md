@@ -31,18 +31,18 @@ To get started with this project, follow the steps below:
 
 ## Folder Hierarchy
 Group6/
-├── .ipynb_checkpoints/         # Jupyter notebook checkpoint files
-├── Data_visualization.ipynb    # Jupyter notebook for data visualization
-├── IMDB_sentimental_model.ipynb# Jupyter notebook for IMDB sentiment analysis
-├── logistic&Bayes.ipynb        # Jupyter notebook for logistic regression and Naive Bayes models
-├── index.py                    # Python script for sentiment analysis and rating prediction
-├── my_senti_model.bin          # Trained FastText sentiment analysis model
-├── Rating_Cleaned.csv          # Cleaned dataset with sentiment labels
-├── rating_model.pkl            # Trained rating prediction model
-├── review_rating_sent.csv      # Raw dataset with review texts and ratings
-├── review_sent.csv             # Raw dataset with review texts for sentiment analysis
-├── tfidf_model.pkl             # Trained TF-IDF vectorizer model
-└── train.txt                   # Processed training data for FastText model
+├── .ipynb_checkpoints/ # Jupyter notebook checkpoint files
+├── Data_visualization.ipynb # Jupyter notebook for data visualization
+├── IMDB_sentimental_model.ipynb # Jupyter notebook for IMDB sentiment analysis
+├── logistic&Bayes.ipynb # Jupyter notebook for logistic regression and Naive Bayes models
+├── index.py # Python script for sentiment analysis and rating prediction
+├── my_senti_model.bin # Trained FastText sentiment analysis model
+├── Rating_Cleaned.csv # Cleaned dataset with sentiment labels
+├── rating_model.pkl # Trained rating prediction model
+├── review_rating_sent.csv # Raw dataset with review texts and ratings
+├── review_sent.csv # Raw dataset with review texts for sentiment analysis
+├── tfidf_model.pkl # Trained TF-IDF vectorizer model
+└── train.txt # Processed training data for FastText model
 
 ## Installation Steps
 
@@ -70,8 +70,9 @@ This project uses various tools and libraries, each with their own licenses. Ple
 
 ## References
 
-- IMDB Movie Review Dataset: [Kaggle](https://www.kaggle.com/datasets/nisargchodavadiya/imdb-movie-reviews-with-ratings-50k)
-- N, L. (2019, March 9). IMDB dataset of 50K movie reviews. Kaggle. https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+- IMDB Movie Review Dataset:
+  Chodvadiya, N. (2021, March 21). IMDB movie reviews with ratings. Kaggle. https://www.kaggle.com/datasets/nisargchodavadiya/imdb-movie-reviews-with-ratings-50k
+  N, L. (2019, March 9). IMDB dataset of 50K movie reviews. Kaggle. https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 - spaCy: [Official Documentation](https://spacy.io/api/span)
 - FastText: [Official Repository](https://github.com/facebookresearch/fastText)
 - fastText. (n.d.). Text classification. Retrieved from https://fasttext.cc/docs/en/supervised-tutorial.html
