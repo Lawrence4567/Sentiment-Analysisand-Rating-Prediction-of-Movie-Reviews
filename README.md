@@ -46,7 +46,7 @@ To get started with this project, follow the steps below:
 <p>The following structure outlines the organization of files and folders within the project:</p>
 
 <ul>
-  <li><span class="folder-icon">📁</span> Project Root
+  <li><span class="folder-icon">📁</span> Group 6
     <ul>
       <li><span class="file-icon">📄</span> Reference list.docx</li>
       <li><span class="file-icon">📄</span> Project Task Log Summary.docx</li>
