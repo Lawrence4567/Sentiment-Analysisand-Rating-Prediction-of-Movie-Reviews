@@ -29,7 +29,6 @@ To get started with this project, follow the steps below:
   - `pandas`, `numpy`, `matplotlib`, `nltk` for data processing and visualization
 - **IDE**: Jupyter Notebook
 
-## Folder Hierarchy
 <!DOCTYPE html>
 <html lang="en">
 <head>
