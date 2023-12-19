@@ -52,6 +52,7 @@ To get started with this project, follow the steps below:
       <li><span class="file-icon">📄</span> Project Task Log Summary.docx</li>
       <li><span class="file-icon">📄</span> video of demonstration.mp4</li>
       <li><span class="file-icon">📄</span> finalproject.pdf</li>
+       <li><span class="file-icon">📄</span>Team 6 AGENDA MINUTES.pdf</li>
       <li><span class="folder-icon">📁</span> images_subfolder</li>
       <li><span class="folder-icon">📁</span> src_folder
         <ul>
