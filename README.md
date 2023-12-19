@@ -30,31 +30,32 @@ To get started with this project, follow the steps below:
 - **IDE**: Jupyter Notebook
 
 ## Folder Hierarchy
+Project Root 
 group6/
-## Root Directory
-- **Reference list.docx**: Contains references used throughout the project.
-- **Project Task Log Summary.docx**: Logs tasks and summaries associated with project milestones.
-- **images_subfolder**: Directory containing images relevant to the project.
-- **.ipynb_checkpoints**: System-generated folder for Jupyter notebook checkpoint files.
-- **video of demonstration.mp4**: Video file demonstrating the project's functionalities.
-- **finalproject.pdf**: PDF document detailing the final project report.
-
-## src_folder (Source Folder)
-This folder contains all the source code and data files necessary for the project execution.
-
-- **.ipynb_checkpoints**: Contains checkpoint files for Jupyter notebooks.
-- **Data_visualization.ipynb**: Jupyter notebook for data visualization tasks.
-- **IMDB_sentimental_model.ipynb**: Jupyter notebook containing the IMDB sentiment analysis model.
-- **index.py**: Python script serving as an entry point for the project.
-- **logistic&Bayes.ipynb**: Jupyter notebook with Logistic Regression and Naive Bayes models.
-- **my_senti_model.bin**: Binary file for a custom sentiment analysis model.
-- **Rating_Cleaned.csv**: Cleaned dataset of ratings for analysis.
-- **rating_model.pkl**: Pickle file containing a pre-trained rating model.
-- **review_rating_sent.csv**: Dataset file with review ratings and sentiments.
-- **review_sent.csv**: Dataset file containing reviews and their associated sentiments.
-- **tfidf_model.pkl**: Pickle file of the trained TF-IDF model.
-- **train.txt**: Text file containing training data.
-
+│
+├── Reference list.docx
+├── Project Task Log Summary.docx
+├── video of demonstration.mp4
+├── finalproject.pdf
+│
+├── images_subfolder
+│   └── [Files and subfolders within images_subfolder]
+│
+├── src_folder
+│   ├── Data_visualization.ipynb
+│   ├── IMDB_sentimental_model.ipynb
+│   ├── index.py
+│   ├── logistic&Bayes.ipynb
+│   ├── my_senti_model.bin
+│   ├── Rating_Cleaned.csv
+│   ├── rating_model.pkl
+│   ├── review_rating_sent.csv
+│   ├── review_sent.csv
+│   ├── tfidf_model.pkl
+│   └── train.txt
+│
+└── .ipynb_checkpoints
+    └── [Jupyter notebook checkpoint files]
 ## Installation Steps
 
 1. Clone the repository.
