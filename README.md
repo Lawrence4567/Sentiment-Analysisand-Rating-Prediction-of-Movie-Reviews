@@ -69,8 +69,6 @@ To get started with this project, follow the steps below:
            <li><span class="folder-icon">📁</span> .ipynb_checkpoints</li>
         </ul>
       </li>
-      
-    </ul>
   </li>
 </ul>
 
