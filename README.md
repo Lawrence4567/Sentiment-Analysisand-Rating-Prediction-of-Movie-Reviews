@@ -70,15 +70,20 @@ This project uses various tools and libraries, each with their own licenses. Ple
 
 ## References
 
-- IMDB Movie Review Dataset:
-  Chodvadiya, N. (2021, March 21). IMDB movie reviews with ratings. Kaggle. https://www.kaggle.com/datasets/nisargchodavadiya/imdb-movie-reviews-with-ratings-50k
-  N, L. (2019, March 9). IMDB dataset of 50K movie reviews. Kaggle. https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-- spaCy: [Official Documentation](https://spacy.io/api/span)
-- FastText: [Official Repository](https://github.com/facebookresearch/fastText)
-- fastText. (n.d.). Text classification. Retrieved from https://fasttext.cc/docs/en/supervised-tutorial.html
--  A. Joulin, E. Grave, P. Bojanowski, T. Mikolov, Bag of Tricks for Efficient Text Classification https://arxiv.org/abs/1607.01759
--  Makwana, A. (2022, October 10). Complete Guide to Analyzing Movie Reviews Using NLP. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2022/09/complete-guide-to-analyzing-movie-reviews-using-nlp/
--  Ortony, A., & Turner, T. J. (1990). What's basic about basic emotions? Psychological Review, 97(3), 315–331. https://doi.org/10.1037/0033-295X.97.3.315
+1. Bird, S., Klein, E., & Loper, E. (2009). *Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit*. O'Reilly Media, Inc.
+2. Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet allocation. *Journal of Machine Learning Research, 3*(Jan), 993-1022.
+3. Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). Enriching Word Vectors with Subword Information. *Transactions of the Association for Computational Linguistics, 5*, 135-146.
+4. FastText. (n.d.). Text classification. Retrieved from https://fasttext.cc/docs/en/supervised-tutorial.html
+5. Hutto, C. J., & Gilbert, E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. *Eighth International AAAI Conference on Weblogs and Social Media*.
+6. Chodavadiya, N. (2021, March 21). IMDB movie reviews with ratings. *Kaggle*. https://www.kaggle.com/datasets/nisargchodavadiya/imdb-movie-reviews-with-ratings-50k
+7. Joulin, A., Grave, E., Bojanowski, P., & Mikolov, T. (2016). Bag of Tricks for Efficient Text Classification. *arXiv preprint arXiv:1607.01759*.
+8. Loper, E., & Bird, S. (2002). NLTK: The Natural Language Toolkit. *arXiv preprint cs/0205028*.
+9. Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. *arXiv preprint arXiv:1301.3781*.
+10. Makwana, A. (2022, October 10). Complete Guide to Analyzing Movie Reviews Using NLP. *Analytics Vidhya*. https://www.analyticsvidhya.com/blog/2022/09/complete-guide-to-analyzing-movie-reviews-using-nlp/
+11. N, L. (2019, March 9). IMDB dataset of 50K movie reviews. *Kaggle*. https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+12. Ortony, A., & Turner, T. J. (1990). What's basic about basic emotions? *Psychological Review, 97*(3), 315–331. https://doi.org/10.1037/0033-295X.97.3.315
+13. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research, 12*(Oct), 2825-2830.
+14. SpaCy. (n.d.). Industrial-Strength Natural Language Processing in Python. Retrieved from https://spacy.io/
   
 # Acknowledgments
 
