@@ -66,7 +66,11 @@ To get started with this project, follow the steps below:
           <li><span class="file-icon">📄</span> review_sent.csv</li>
           <li><span class="file-icon">📄</span> tfidf_model.pkl</li>
           <li><span class="file-icon">📄</span> train.txt</li>
-           <li><span class="folder-icon">📁</span> .ipynb_checkpoints</li>
+          <li><span class="folder-icon">📁</span> .ipynb_checkpoints</li>
+            <ul>
+               <li><span class="file-icon">📄</span> IMDB_sentimental_model-checkpoint.ipynb</li>
+               <li><span class="file-icon">📄</span> logistic&Bayes-checkpoint.ipynb</li>
+            </ul>
         </ul>
       </li>
   </li>
