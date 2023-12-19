@@ -30,33 +30,6 @@ To get started with this project, follow the steps below:
 - **IDE**: Jupyter Notebook
 
 ## Folder Hierarchy
-Project Root 
-group6/
-│
-├── Reference list.docx <br/>
-├── Project Task Log Summary.docx
-├── video of demonstration.mp4
-├── finalproject.pdf
-│
-├── images_subfolder
-│   └── [Files and subfolders within images_subfolder]
-│
-├── src_folder
-│   ├── Data_visualization.ipynb
-│   ├── IMDB_sentimental_model.ipynb
-│   ├── index.py
-│   ├── logistic&Bayes.ipynb
-│   ├── my_senti_model.bin
-│   ├── Rating_Cleaned.csv
-│   ├── rating_model.pkl
-│   ├── review_rating_sent.csv
-│   ├── review_sent.csv
-│   ├── tfidf_model.pkl
-│   └── train.txt
-│
-└── .ipynb_checkpoints
-    └── [Jupyter notebook checkpoint files]
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
