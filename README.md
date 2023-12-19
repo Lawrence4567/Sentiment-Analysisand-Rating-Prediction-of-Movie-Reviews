@@ -57,60 +57,53 @@ group6/
 └── .ipynb_checkpoints
     └── [Jupyter notebook checkpoint files]
 
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Project Folder Structure</title>
+<title>README - Project Folder Structure</title>
 <style>
-  ul { list-style-type: none; }
-  li { margin-left: 20px; }
-  .folder:before { content: "📁"; margin-right: 5px; }
-  .file:before { content: "📄"; margin-right: 5px; }
+  .folder-icon:before { content: "\\1F4C1"; }
+  .file-icon:before { content: "\\1F4C4"; }
 </style>
 </head>
 <body>
 
 <h1>Project Folder Structure</h1>
 
+<p>The following structure outlines the organization of files and folders within the project:</p>
+
 <ul>
-  <li class="folder">Project Root
+  <li><span class="folder-icon">📁</span> Project Root
     <ul>
-      <li class="file">Reference list.docx</li>
-      <li class="file">Project Task Log Summary.docx</li>
-      <li class="file">video of demonstration.mp4</li>
-      <li class="file">finalproject.pdf</li>
-      <li class="folder">images_subfolder
+      <li><span class="file-icon">📄</span> Reference list.docx</li>
+      <li><span class="file-icon">📄</span> Project Task Log Summary.docx</li>
+      <li><span class="file-icon">📄</span> video of demonstration.mp4</li>
+      <li><span class="file-icon">📄</span> finalproject.pdf</li>
+      <li><span class="folder-icon">📁</span> images_subfolder</li>
+      <li><span class="folder-icon">📁</span> src_folder
         <ul>
-          <li class="file">[Files within images_subfolder]</li>
+          <li><span class="file-icon">📄</span> Data_visualization.ipynb</li>
+          <li><span class="file-icon">📄</span> IMDB_sentimental_model.ipynb</li>
+          <li><span class="file-icon">📄</span> index.py</li>
+          <li><span class="file-icon">📄</span> logistic&Bayes.ipynb</li>
+          <li><span class="file-icon">📄</span> my_senti_model.bin</li>
+          <li><span class="file-icon">📄</span> Rating_Cleaned.csv</li>
+          <li><span class="file-icon">📄</span> rating_model.pkl</li>
+          <li><span class="file-icon">📄</span> review_rating_sent.csv</li>
+          <li><span class="file-icon">📄</span> review_sent.csv</li>
+          <li><span class="file-icon">📄</span> tfidf_model.pkl</li>
+          <li><span class="file-icon">📄</span> train.txt</li>
         </ul>
       </li>
-      <li class="folder">src_folder
-        <ul>
-          <li class="file">Data_visualization.ipynb</li>
-          <li class="file">IMDB_sentimental_model.ipynb</li>
-          <li class="file">index.py</li>
-          <li class="file">logistic&Bayes.ipynb</li>
-          <li class="file">my_senti_model.bin</li>
-          <li class="file">Rating_Cleaned.csv</li>
-          <li class="file">rating_model.pkl</li>
-          <li class="file">review_rating_sent.csv</li>
-          <li class="file">review_sent.csv</li>
-          <li class="file">tfidf_model.pkl</li>
-          <li class="file">train.txt</li>
-        </ul>
-      </li>
-      <li class="folder">.ipynb_checkpoints
-        <ul>
-          <li class="file">[Jupyter notebook checkpoint files]</li>
-        </ul>
-      </li>
+      <li><span class="folder-icon">📁</span> .ipynb_checkpoints</li>
     </ul>
   </li>
 </ul>
 
 </body>
 </html>
+
 
 ## Installation Steps
 
