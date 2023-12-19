@@ -56,6 +56,62 @@ group6/
 │
 └── .ipynb_checkpoints
     └── [Jupyter notebook checkpoint files]
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Project Folder Structure</title>
+<style>
+  ul { list-style-type: none; }
+  li { margin-left: 20px; }
+  .folder:before { content: "📁"; margin-right: 5px; }
+  .file:before { content: "📄"; margin-right: 5px; }
+</style>
+</head>
+<body>
+
+<h1>Project Folder Structure</h1>
+
+<ul>
+  <li class="folder">Project Root
+    <ul>
+      <li class="file">Reference list.docx</li>
+      <li class="file">Project Task Log Summary.docx</li>
+      <li class="file">video of demonstration.mp4</li>
+      <li class="file">finalproject.pdf</li>
+      <li class="folder">images_subfolder
+        <ul>
+          <li class="file">[Files within images_subfolder]</li>
+        </ul>
+      </li>
+      <li class="folder">src_folder
+        <ul>
+          <li class="file">Data_visualization.ipynb</li>
+          <li class="file">IMDB_sentimental_model.ipynb</li>
+          <li class="file">index.py</li>
+          <li class="file">logistic&Bayes.ipynb</li>
+          <li class="file">my_senti_model.bin</li>
+          <li class="file">Rating_Cleaned.csv</li>
+          <li class="file">rating_model.pkl</li>
+          <li class="file">review_rating_sent.csv</li>
+          <li class="file">review_sent.csv</li>
+          <li class="file">tfidf_model.pkl</li>
+          <li class="file">train.txt</li>
+        </ul>
+      </li>
+      <li class="folder">.ipynb_checkpoints
+        <ul>
+          <li class="file">[Jupyter notebook checkpoint files]</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+</body>
+</html>
+
 ## Installation Steps
 
 1. Clone the repository.
