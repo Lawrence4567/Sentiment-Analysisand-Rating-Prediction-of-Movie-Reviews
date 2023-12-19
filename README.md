@@ -59,7 +59,6 @@ To get started with this project, follow the steps below:
           <li><span class="file-icon">📄</span> IMDB_sentimental_model.ipynb</li>
           <li><span class="file-icon">📄</span> index.py</li>
           <li><span class="file-icon">📄</span> logistic&Bayes.ipynb</li>
-          <li><span class="file-icon">📄</span> my_senti_model.bin</li>
           <li><span class="file-icon">📄</span> Rating_Cleaned.csv</li>
           <li><span class="file-icon">📄</span> rating_model.pkl</li>
           <li><span class="file-icon">📄</span> review_rating_sent.csv</li>
