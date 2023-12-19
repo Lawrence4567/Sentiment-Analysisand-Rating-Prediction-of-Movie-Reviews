@@ -30,7 +30,7 @@ To get started with this project, follow the steps below:
 - **IDE**: Jupyter Notebook
 
 ## Folder Hierarchy
-Group6/
+src_folder/
 ├── .ipynb_checkpoints/ # Jupyter notebook checkpoint files
 ├── Data_visualization.ipynb # Jupyter notebook for data visualization
 ├── IMDB_sentimental_model.ipynb # Jupyter notebook for IMDB sentiment analysis
