@@ -33,7 +33,7 @@ To get started with this project, follow the steps below:
 Project Root 
 group6/
 │
-├── Reference list.docx
+├── Reference list.docx <br/>
 ├── Project Task Log Summary.docx
 ├── video of demonstration.mp4
 ├── finalproject.pdf
